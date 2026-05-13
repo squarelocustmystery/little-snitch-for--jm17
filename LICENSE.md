@@ -1,4 +1,4 @@
-# 
+# Enhance Little Snitch for macOS with professional Little Snitch for macOS Validator | vulnerability-scanner + encryption, the #1 validator. Includes vulnerability-scanner and
 
 
 
